@@ -1,5 +1,5 @@
 ##### 👋 Hi there, I'm Shone Jolly — AI/ML Engineer
-###### &emsp;&emsp; I'm a passionate **AI / ML Engineer** with hands-on experience building and deploying scalable, real-time machine learning systems. I enjoy working across the ML lifecycle — from data ingestion and model development to cloud deployment and monitoring.<br><br>
+##### &emsp;&emsp; I'm a passionate **AI / ML Engineer** with hands-on experience building and deploying scalable, real-time machine learning systems. I enjoy working across the ML lifecycle — from data ingestion and model development to cloud deployment and monitoring.<br><br>
 ## 💫 About Me
 ##### - 🔬 Currently exploring **Generative AI**, **Langchain**, and **Retrieval-Augmented Generation (RAG)**<br>- 🛠️ Experienced in building **end-to-end ML pipelines** with production-grade deployment<br>- ☁️ I leverage **cloud-native tools** and **MLOps best practices** to scale machine learning solutions<br>- 👯 Open to collaboration on AI/ML research or real-world projects<br><br>
 ## 📚 Currently Learning
